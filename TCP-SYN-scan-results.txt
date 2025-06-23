@@ -1,0 +1,11 @@
+# Nmap 7.80 scan initiated Mon Jun 23 12:54:15 2025 as: nmap -sS -oN TCP-SYN-scan-results.txt 172.21.96.0/20
+Nmap scan report for DESKTOP-L2T7O1I.mshome.net (172.21.96.1)
+Host is up (0.00059s latency).
+All 1000 scanned ports on DESKTOP-L2T7O1I.mshome.net (172.21.96.1) are filtered
+MAC Address: 00:15:5D:C8:95:1E (Microsoft)
+
+Nmap scan report for 172.21.108.213
+Host is up (0.0000020s latency).
+All 1000 scanned ports on 172.21.108.213 are closed
+
+# Nmap done at Mon Jun 23 12:54:48 2025 -- 4096 IP addresses (2 hosts up) scanned in 33.00 seconds
