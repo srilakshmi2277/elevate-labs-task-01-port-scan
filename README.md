@@ -1,4 +1,4 @@
-# Elevate-labs-task-01-port-scan
+# Elevate-labs
 
 # Task 1 – Scan Your Local Network for Open Ports using Nmap
 
