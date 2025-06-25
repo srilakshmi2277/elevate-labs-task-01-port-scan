@@ -9,9 +9,13 @@ Here, in this task, I used **Nmap** to perform TCP SYN scans on local networks i
 
 **Full PDF Report:**   [Task 1 – Scan Your Local Network for Open Ports using Nmap](Daily_Task_Documents/Elevate_Labs_Task_1.pdf)
 
+
 ---
+
 
 ## Task 2: Analyze a Phishing Email Sample(June 24,2025)
 
+- Here, In this task, I created and analyzed a fake phishing email to understand how phishing works. I made an email that looked like it was from Samsung, offering a free Galaxy S25 Ultra, and sent it from a ProtonMail account. I checked the sender’s email, the link, the message style, and other signs like mismatched URLs. In detail, all the steps are explained in my report below:
 
-**Full PDF Report:** 
+**Full PDF Report:** [Task 2 – Analyze a Phishing Email Sample](Daily_Task_Documents/Elevate_Labs_Task_2.pdf)
+
