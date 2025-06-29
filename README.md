@@ -19,3 +19,22 @@ Here, in this task, I used **Nmap** to perform TCP SYN scans on local networks i
 
 **Full PDF Report:** [Task 2 – Analyze a Phishing Email Sample](Daily_Task_Documents/Elevate_Labs_Task_2.pdf)
 
+
+---
+
+## Task 3: Perform a Basic Vulnerability Scan on Your PC(June 26,2025)
+
+- Tools Used: Nessus Essentials.
+- Performed a basic vulnerability assessment on my PC using Nessus Essentials as part of a security task. Initially tried scanning with my local IP, but switched to 127.0.0.1 as the target due to host detection issues. Completed the scan successfully and documented the process in my report below:
+
+**Full PDF Report:** [Task 3 – Basic Vulnerability Scan on Your PC](Daily_Task_Documents/Elevate_Labs_Task_3.pdf)
+
+---
+
+## Task 4: Setup and Use a Firewall on Windows/Linux(June 27,2025)
+
+- Tools Used: Windows Firewall
+- Here, Using the built-in firewall tool, I configured and tested basic firewall rules on Windows. I blocked and tested Telnet (port 23), allowed SSH (port 22), and learned how firewalls use rules to filter and protect network traffic.
+  
+**Full PDF Report:** [Task 4 – Setup and Use a Firewall on Windows](Daily_Task_Documents/Elevate_Labs_Task_4.pdf)
+
