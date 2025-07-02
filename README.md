@@ -38,3 +38,22 @@ Here, in this task, I used **Nmap** to perform TCP SYN scans on local networks i
   
 **Full PDF Report:** [Task 4 – Setup and Use a Firewall on Windows](Daily_Task_Documents/Elevate_Labs_Task_4.pdf)
 
+---
+
+## Task 5: Capture and Analyze Network Traffic Using Wireshark(June 30,2025)
+
+- Tools Used: Wireshark, Ubuntu
+- Here, I used Wireshark on Linux with eth0 interface to capture live network traffic. I filtered and checked each protocol, then saved the capture as a .pcap file. Documented the process and steps in my report below:
+  
+**Full PDF Report:** [Task 5 - Capture and Analyze Network Traffic Using Wireshark](Daily_Task_Documents/Elevate_Labs_Task_5.pdf)
+
+---
+
+## Task 6: Create a Strong Password and Evaluate Its Strength(July 1,2025)
+
+- Tools Used: The Password Meter(online free version)
+- Here, I created and tested six passwords with different strengths using a password checker and noted their scores and learned what makes a strong password. Documented my observations in the report below:
+  
+**Full PDF Report:** [Task 6 - Create a Strong Password and Evaluate Its Strength.](Daily_Task_Documents/Elevate_Labs_Task_6.pdf)
+
+
